@@ -1,0 +1,19 @@
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
+project:
+  title: Pythia Cook-off 2025
+  authors:
+    - name: Project Pythia Community
+      url: https://projectpythia.org/
+  github: https://github.com/projectpythia/pythia-cookoff-2025
+  copyright: '2025'
+  toc:
+    - file: README.md
+    - title: Essential info
+      children:
+        - file: schedule.md
+        - file: travel.md
+        - file: breakouts.md
+        - file: onboarding.md
+        - file: faq.md
