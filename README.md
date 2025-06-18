@@ -1,6 +1,6 @@
-<img src="thumbnail.png" alt="thumbnail" width="200"/>  <img src="images/large-logo-blue-text.png" alt="Pangeo logo" width="450"/>
-
 # Pythia Cook-off 2025
+
+<img src="thumbnail.png" alt="thumbnail" width="200"/>  <img src="images/large-logo-blue-text.png" alt="Pangeo logo" width="450"/>
 
 [![nightly-build](https://github.com/ProjectPythia/pythia-cookoff-2025/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/pythia-cookoff-2025/actions/workflows/nightly-build.yaml)
 

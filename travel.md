@@ -9,6 +9,10 @@ Boulder, CO 80305
 
 Recommended hotels are the the [Fairfield Inn](https://www.marriott.com/en-us/hotels/vboff-fairfield-inn-and-suites-boulder/overview/) and the [Residence Inn](https://www.marriott.com/en-us/hotels/vbocg-residence-inn-boulder/overview/) on Center Green.
 
+**Please ask for the "UCAR Project Pythia Cook-off rate."**
+
+If the suggested hotels fill up, reach out to CISL_Events@UCAR.edu.
+
 ## Funding for travel
 
 Project Pythia has limited funding from the U.S. National Science Foundation to support travel expenses for US student and PosDdoc participants!
