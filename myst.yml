@@ -10,10 +10,8 @@ project:
   copyright: '2025'
   toc:
     - file: README.md
-    - title: Essential info
-      children:
-        - file: schedule.md
-        - file: travel.md
-        - file: breakouts.md
-        - file: onboarding.md
-        - file: faq.md
+    - file: schedule.md
+    - file: travel.md
+    - file: breakouts.md
+    - file: onboarding.md
+    - file: faq.md
