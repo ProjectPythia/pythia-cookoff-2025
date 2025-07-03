@@ -6,7 +6,7 @@ Participant Travel Support (PTS) will be made available for a limited number of 
 
 ## Are there recommended hotels for this event?
 
-The recommended hotel for this event is the [Fairfield Inn](https://www.marriott.com/en-us/hotels/vboff-fairfield-inn-and-suites-boulder/overview/) on Center Green.  We will not be reserving a hotel block for this event.
+We will not be reserving a hotel block for this event. For hotel recommendations, see the [travel page](travel).
 
 ## I don't know anything about how to build a Cookbook, should I attend?
 
