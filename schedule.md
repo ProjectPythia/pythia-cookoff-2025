@@ -16,7 +16,7 @@
 ## Wednesday August 6
 - 09:00 AM: Morning check-in (Main Seminar Room)
 - 09:30 AM: Pythia Data Storage Session (Main Seminar Room)
-- 10:30 AM: Hacking (Breakout Rooms)
+- 10:00 AM: Hacking (Breakout Rooms)
 - 12:00 PM: Lunch (Cafeteria)
 - 01:00 PM: Hacking (Breakout Rooms)
 - 02:15 PM: Afternoon debrief (Main Seminar Room)
