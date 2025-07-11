@@ -10,6 +10,7 @@
 - 12:00 PM: Lunch (Cafeteria)
 - 01:00 PM: GitHub: Cookbook Repository Set-Up and First Commit (Main Seminar Room)
 - 02:00 PM: Hacking: Group Brainstorming (Breakout Rooms)
+- 04:30 PM: Afternoon debrief (Main Seminar Room)
 - 05:00 PM: Adjourn
 
 ## Wednesday August 6
