@@ -9,7 +9,7 @@
 - 09:00 AM: Welcome Plenary (Main Seminar Room)
 - 10:00 AM: Project Pitches (Main Seminar Room)
 - 12:00 PM: Lunch (Cafeteria)
-- 01:00 PM: GitHub: Cookbook Repository Set-Up and First Commit (Main Seminar Room)
+- 01:00 PM: GitHub on 2i2c JupyterHub: Cookbook Repository Set-Up and First Commit (Main Seminar Room)
 - 02:00 PM: Hacking: Group Brainstorming (Breakout Rooms)
 - 04:30 PM: Afternoon Debrief (Main Seminar Room)
 - 05:00 PM: Adjourn
