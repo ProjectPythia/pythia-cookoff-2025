@@ -36,7 +36,7 @@
 - 04:00 PM: Afternoon Debrief (Main Seminar Room)
 - 05:00 PM: Adjourn
 
-*Pythia Cookout (evening social) to follow, at Rayback Collective*
+*Pythia Cookout (evening social) to follow, at Rayback Collective, 7pm*
 
 ## Friday August 8
 - 09:00 AM: Morning Check-In (Main Seminar Room)
