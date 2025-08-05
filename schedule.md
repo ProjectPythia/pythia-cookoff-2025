@@ -32,7 +32,7 @@
 - 10:30 AM: 15 minute Break
 - 12:30 PM: Lunch (Cafeteria)
 - 01:30 PM: Hacking (Breakout Rooms)
-- 2:45 AM: 15 minute Break
+- 2:45 PM: 15 minute Break
 - 04:00 PM: Afternoon Debrief (Main Seminar Room)
 - 05:00 PM: Adjourn
 
